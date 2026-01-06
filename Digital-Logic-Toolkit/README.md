@@ -1,4 +1,9 @@
 # Digital Logic Design & Analysis Toolkit using MATLAB
+## How to Run
+1. Open MATLAB
+2. Set Current Folder to project root
+3. Run `main.m`
+
 
 ## Objective
 To design and simulate basic digital logic circuits using MATLAB
