@@ -10,11 +10,18 @@ for better understanding of Digital Electronics and VLSI fundamentals.
 - Half Adder
 - Full Adder
 - 2-Variable Karnaugh Map Simplification
+- Verilog RTL: Logic Gates, Half Adder, Full Adder
+
 
 
 
 ## Tools Used
 - MATLAB (Onramp concepts)
+## HDL Support
+This project includes basic Verilog RTL implementations to demonstrate
+the transition from algorithm-level simulation (MATLAB) to hardware
+description languages used in VLSI design.
+
 
 ## Applications
 - Digital circuit design
