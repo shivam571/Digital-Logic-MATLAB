@@ -25,7 +25,7 @@ for better understanding of Digital Electronics and VLSI fundamentals.
 ## HDL Support
 This project includes basic Verilog RTL implementations to demonstrate
 the transition from algorithm-level simulation (MATLAB) to hardware
-description languages used in VLSI design.
+description languages used in VLSI design. 
 
 
 ## Applications
